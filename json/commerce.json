@@ -1,0 +1,30 @@
+{
+    "clientes": [
+        {
+            "nome": "Pepzixy",
+            "idade": 17,
+            "cpf": "123.456.789-00",
+            "cep": "12345-678",
+            "numCasa": "123",
+            "complemento": null,
+            "sexo": "M",
+            "aniversario": "2009-04-14",
+            "signo": "Áries",
+            "estado-civil": "união estável"
+        }
+    ],
+    "pedidos": [
+        {
+            "nome": "Computador Gamer AMD Ryzen 5700G",
+            "descricao": "Roda jogos em gráficos leves a médios dado a não existência de GPU dedicada",
+            "tipo-pagamento": "Débito",
+            "preco": 3989.79,
+            "vendedor": "Pichau",
+            "distribuidor": "SEDEX",
+            "data-pedido": "2024-04-10",
+            "garantia": "2030-05-20",
+            "disponivel": true,
+            "cupom": false
+        }
+    ]
+}

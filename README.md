@@ -16,13 +16,13 @@ Este repositório é dedicado à resolução de exercícios propostos no curso d
 
 ### AT1 
 
-**Onde localizar:** `/exercises/`
-**Descrição:** Conjunto de exercícios envolvendo o framework Express para resolver diversos problemas, trabalhando com a manipulação de endpoints, regras de desenvolvimento
-**Objetivo:** Fortalecer os aspectos de desenvolvimento web com Node.js
+- **Onde localizar:** `/exercises/`
+- **Descrição:** Conjunto de exercícios envolvendo o framework Express para resolver diversos problemas, trabalhando com a manipulação de endpoints, regras de desenvolvimento
+- **Objetivo:** Fortalecer os aspectos de desenvolvimento web com Node.js
 
 
 ### AT2
 
-**Onde localizar:** `/servers`
-**Descrição:** Constituição de três projetos distintos (separados por pastas) e independentes
-**Objetivo:** Entender e aplicar separação de dependências em servidores com funcionalidades únicas, utilizando portas diferentes para permitir a execução simultânea
+- **Onde localizar:** `/servers`
+- **Descrição:** Constituição de três projetos distintos (separados por pastas) e independentes
+- **Objetivo:** Entender e aplicar separação de dependências em servidores com funcionalidades únicas, utilizando portas diferentes para permitir a execução simultânea
